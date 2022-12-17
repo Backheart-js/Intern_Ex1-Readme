@@ -1,0 +1,8 @@
+:root {
+    --primary-color: #FFD900;
+    --text-color: #333;
+    --text-secondary-color: rgb(192, 191, 191);
+    --black-color: #000;
+
+    --header-height-mobile: 65px;
+}
